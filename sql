@@ -1,4 +1,4 @@
-Skill SQL
+Skill SQL папа
 
 1 Show all usernames in the next format
 https://gyazo.com/41b95749c9eb8f0dc9d59b8406207133
