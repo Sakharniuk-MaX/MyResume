@@ -1,1 +1,1 @@
-File sql this is my works task skill mySQl db
+File sql this is my works task skill mySQl
